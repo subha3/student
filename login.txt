@@ -4,4 +4,4 @@ Student Detail:
 1) Name
 2)Id
 3)Roll no
-
+4)class
