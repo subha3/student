@@ -5,3 +5,4 @@ Student Detail:
 2)Id
 3)Roll no
 4)class
+Employee Details:
